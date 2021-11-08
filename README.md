@@ -16,4 +16,4 @@ I printed using the Dremel Digilab 3D 45 and it came out great. Make sure to pri
 # Design
 I designed this using the measurements of the Laptop, so it is the same width as the body and the spacing of the Expansion Cards is the same. The Expansion Cards are spaced the same way as in the laptop.
 
-I designed this using Inventor 2022 on Windows and have supplied the porject files. I made the project modular so it can support 6 or 4 or however many extra cards you have.
+I designed this using Inventor 2022 on Windows and have supplied the porject files. I made the project modular so it can support 6 or 4 or however many extra cards you have. The Inventor project files are in inches, so you wil need to scale the build by 40% when printing.
